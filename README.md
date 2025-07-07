@@ -39,6 +39,22 @@ Analyze employee data to:
 
 ## 📈 Visuals
 
+![Palmoria Group HR Analysis, Gender Distribution Visualization](https://github.com/user-attachments/assets/cce8bf5a-06a0-465f-92b0-260de8e6b9c4)
+![Palmoria Group HR Analysis, Ratings Based on Gender Visualization](https://github.com/user-attachments/assets/d5495285-b270-4d98-9ba7-e5bba7d3ec03)
+![Palmoria Group HR Analysis, Gender Pay Gap Visualization](https://github.com/user-attachments/assets/0ab1bd3f-e5aa-4f66-949f-cfa702d80050)
+
+
+### 🗂️ Files
+- To access the Palmora Group HR Analysis File that contains
+  - the uncleaned dataset
+  - the analysis dataset
+
+[Click Here](https://drive.google.com/drive/folders/1pd_-miMur4fQfijDZPw2tOzZXq4sklMv)
+
+
+
+
+> 💡 *This analysis will help guide Palmora Group’s HR leadership in reviewing their gender equality practices and identifying areas for continuous improvement.*
 
 
 
